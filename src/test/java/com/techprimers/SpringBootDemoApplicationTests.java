@@ -43,7 +43,7 @@ public class SpringBootDemoApplicationTests {
 	{
 		user = new User();
 		user.setId(1l);
-		user.setName("Virat");
+		user.setName("kohli");
 		user.setTeamName("RCB");
 		user.setSalary(15000);
 	}
